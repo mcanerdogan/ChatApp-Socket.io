@@ -163,6 +163,8 @@ button:disabled {
 /* Chat Sidebar Styles */
 
 .room-title {
+    color: #c9b2fa;
+    border-bottom: 1px solid white;
     font-weight: 400;
     font-size: 22px;
     background: #2c2f3a;
@@ -177,6 +179,7 @@ button:disabled {
 }
 
 .users {
+    color: #dfd0ff;
     list-style-type: none;
     font-weight: 300;
     padding: 12px 24px 0 24px;
