@@ -22,10 +22,10 @@ Chat application project using socket.io and Node JS
 ---
 
 <h3>Images</h3>
-Login Page
+Join
 
-<img src="https://prnt.sc/26cgroi" alt="loginImg" />
+[![image](https://i.hizliresim.com/i586gzv.png)](https://www.hizliresim.com/i586gzv)
 
 Chat Room
+[![image](https://i.hizliresim.com/fcg0uuf.png)](https://www.hizliresim.com/fcg0uuf)
 
-<img src="https://prnt.sc/26cgsg5" alt="loginImg" />
