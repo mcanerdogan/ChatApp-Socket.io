@@ -1,7 +1,7 @@
 # ChatApp-Socket.io
 Chat application project using socket.io and Node JS
 
-<h3>Links</h3>
+<h3>Demo</h3>
 <ul>
   <li><a href="https://mcan-node-chat-app.herokuapp.com/">Live Demo</a></li>
 </ul>
